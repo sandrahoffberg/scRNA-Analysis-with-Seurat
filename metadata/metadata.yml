@@ -1,0 +1,10 @@
+metadata_version: 1
+name: scRNA Analysis with Seurat
+description: This Code Ocean Capsule is a Seurat demo in R.
+tags:
+- Seurat
+- Genomics
+- RNA
+- single cell
+authors:
+- name: Sandra Hoffberg
